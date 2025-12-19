@@ -4,18 +4,18 @@ import java.util.Scanner;
 
 public class DayWeek {
     public static void main(String[] args) {
-        // Create a Scanner object named sc
+        // Create a Scanner object 
         Scanner sc = new Scanner(System.in);
 
-        // Get input for month, day, year
-        System.out.print("Enter month (1 for Jan, 2 for Feb, ...): ");
-        int m = sc.nextInt();
+        // Get input 
+        System.out.print("Enter month: ");
+        int m = Integer.parseInt(args[0]);
 
         System.out.print("Enter day: ");
-        int d = sc.nextInt();
+        int d = Integer.parseInt(args[1]);
 
         System.out.print("Enter year: ");
-        int y = sc.nextInt();
+        int y = Integer.parseInt(args[2]);
 
         // Apply Gregorian calendar formulas
         // y0 = y - (14 - m) / 12

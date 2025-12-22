@@ -1,66 +1,45 @@
+// Create methods for all the UnitConvertor class methods
+import java.util.Scanner;
 public class UnitConvertor {
-
-    // Distance conversions
+    // Method to convert kilometers to miles
     public static double convertKmToMiles(double km) {
-        return km * 0.621371;
+        double km2miles = 0.621371;
+        return km * km2miles;
     }
-
-    public static double convertMilesToKm(double miles) {
-        return miles * 1.60934;
-    }
-
+	// Method to convert miles to kilometers
+   public static double convertMilesToKm(double miles) {
+        double miles2km = 1.60934;
+        return miles * miles2km;
+   }
+	// Method to convert meters to feet
     public static double convertMetersToFeet(double meters) {
-        return meters * 3.28084;
+        double meters2feet = 3.28084;
+        return meters * meters2feet;
     }
-
+    // Method to convert feet to meters
     public static double convertFeetToMeters(double feet) {
-        return feet * 0.3048;
+        double feet2meters = 0.3048;
+        return feet * feet2meters;
     }
+    // Main method
+    public static void main(String[] args) {
+       //Scanner object to take input
+	   Scanner sc = new Scanner(System.in);
+        // Display a message to user
+        System.out.print("Enter distance in kilometers: ");
+	    // Taking input from user
+        double km = sc.nextDouble();
+       System.out.print("Enter distance in miles: ");
+        double miles = sc.nextDouble();
+        System.out.print("Enter distance in meters: ");
+        double meters = sc.nextDouble();
+          System.out.print("Enter distance in feet: ");
+        double feet = sc.nextDouble();
 
-    public static double convertYardsToFeet(double yards) {
-        return yards * 3;
-    }
-
-    public static double convertFeetToYards(double feet) {
-        return feet * 0.333333;
-    }
-
-    public static double convertMetersToInches(double meters) {
-        return meters * 39.3701;
-    }
-
-    public static double convertInchesToMeters(double inches) {
-        return inches * 0.0254;
-    }
-
-    public static double convertInchesToCm(double inches) {
-        return inches * 2.54;
-    }
-
-    // Temperature
-    public static double convertFahrenheitToCelsius(double f) {
-        return (f - 32) * 5 / 9;
-    }
-
-    public static double convertCelsiusToFahrenheit(double c) {
-        return (c * 9 / 5) + 32;
-    }
-
-    // Weight
-    public static double convertPoundsToKilograms(double pounds) {
-        return pounds * 0.453592;
-    }
-
-    public static double convertKilogramsToPounds(double kg) {
-        return kg * 2.20462;
-    }
-
-    // Volume
-    public static double convertGallonsToLiters(double gallons) {
-        return gallons * 3.78541;
-    }
-
-    public static double convertLitersToGallons(double liters) {
-        return liters * 0.264172;
+        // print results
+        System.out.println("Kilometers to Miles: " + convertKmToMiles(km));
+        System.out.println("Miles to Kilometers: " + convertMilesToKm(miles));
+        System.out.println("Meters to Feet: " + convertMetersToFeet(meters));
+        System.out.println("Feet to Meters: " + convertFeetToMeters(feet));
     }
 }

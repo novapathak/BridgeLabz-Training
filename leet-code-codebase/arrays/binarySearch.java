@@ -1,40 +1,41 @@
-class Solution {
-  
-    public long binarySearch(int n) {
+import java.util.Scanner;
 
-        // Start index
-        int start = 0;
+public class BinarySearch{
 
-        // End index
-        int end = n;
-        long ans = -1;
+    public static int search(int[]nums,int target){
+        int low=0;
+        int high=nums.length-1;
 
-        // Binary search loop
-        while (start <= end) {
-           
-            long mid = start + (end - start) / 2;
-            long square = mid * mid;
-          
-            if (square == n) {
-                return mid;   
-            }
-          
-            else if (square < n) {
-                ans = mid;       
-                start = (int) mid + 1; 
-            }
-            
-            else {
-                end = (int) mid - 1;   
-            }
+        while(low<high){
+            int mid =(low+high)/2;
+            if (nums[mid]<target){
+                low=mid+1;
+            } 
+			else{
+                high=mid;
+         }
         }
 
-        // Return 
-        return ans;
+        return(nums.length>0 &&nums[low]==target)?low:-1;
     }
 
-    // This method calls binarySearch
-    public int mySqrt(int x) {
-        return (int) binarySearch(x);
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        int n=sc.nextInt();
+
+        int[] nums=new int[n];
+
+        for (int i = 0; i < n; i++) {
+            nums[i] = sc.nextInt();
+}
+
+        int target=sc.nextInt();
+        int result=search(nums, target);
+        if(result!=-1){
+            System.out.println("Target found " + result);
+        }
+		else {
+            System.out.println("Target not found");
+      }
     }
 }

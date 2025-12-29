@@ -1,4 +1,4 @@
-package com.bridgelabz.oops.levelone;
+package com.bridgrlabz.oops.levelone;
 
 public class MobilePhone {
 

@@ -1,0 +1,19 @@
+/.metadata/
+# =========================
+# Eclipse Workspace
+# =========================
+.metadata/
+.gitignore/
+
+# =========================
+# Eclipse Project Files
+# =========================
+JavaOopsPractice/.settings/
+JavaOopsPractice/.project
+JavaOopsPractice/.classpath
+
+# =========================
+# Java Build Output
+# =========================
+JavaOopsPractice/bin/
+JavaOopsPractice/src/module-info.java

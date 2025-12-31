@@ -130,3 +130,51 @@
 
 🔗 *Code Link:*  
 👉 [Day 7 – Built-in Functions](https://github.com/novapathak/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra)
+
+## Day 9 - Leetcode and Scenario-based-problems
+**Date:** 26-Dec-2025
+
+- Solved 5 leetcode questions related to arrays and strings
+- solved 3 Scenario based questions
+- Commited and pushed solutions to the repository
+
+### 🔗Code Link:
+ 👉 [Leetcode](https://github.com/novapathak/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+ 👉[scenario-based-problems](https://github.com/novapathak/BridgeLabz-Training/tree/core-java-practice/scenario-codebase)
+
+ ---
+
+## Day 10 - Leetcode problems
+**Date:** 28-Dec-2025
+
+- Solved 13 leetcode questions related to arrays and strings 
+- Commited and pushed solutions to the repository
+
+### 🔗Code Link:
+ 👉 [Leetcode](https://github.com/novapathak/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+ ---
+
+ ## Day 11 - Scenario-based-problems and Leetcode problems
+**Date:** 29-Dec-2025
+
+- Sloved 2 leetcode questions related to arrays 
+- Solved 5 Scenario based questions
+- Commited and pushed solutions to the repository
+
+### 🔗Code Link:
+ 👉 [Leetcode](https://github.com/novapathak/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+ 👉[scenario-based-problems](https://github.com/novapathak/BridgeLabz-Training/tree/core-java-practice/scenario-codebase)
+
+ ---
+
+ ## Day 12 - Scenario-based-problems and Leetcode problems
+**Date:** 30-Dec-2025
+
+- Solved 3 leetcode questions related to arrays 
+- Solved 5 Scenario based questions
+- Commited and pushed solutions to the repository
+
+### 🔗Code Link:
+ 👉 [Leetcode](https://github.com/novapathak/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+ 👉[scenario-based-problems](https://github.com/novapathak/BridgeLabz-Training/tree/core-java-practice/scenario-codebase)

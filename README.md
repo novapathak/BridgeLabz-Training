@@ -183,7 +183,7 @@ Date -27-12-2025
  ---
 
 ## Day 13 - Inheritance 
- Date -31-12-2025
+Date -31-12-2025
 
 ## ✅ Overview
 - Learned inheritance as a core OOP principle for code reuse and hierarchy creation

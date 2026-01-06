@@ -145,4 +145,42 @@ Date -27-12-2025
 
  ---
 
+ Day 13 - Inheritance 
+ Date -31-12-2025
+
+## ✅ Overview
+- Learned inheritance as a core OOP principle for code reuse and hierarchy creation
+- Understood parent-child class relationships and method overriding
+- Mastered different inheritance types and their applications
+- Applied inheritance best practices and design principles
+
+## 📘 Concepts Covered
+- **Inheritance Types**: Single, Multilevel, Hierarchical, and Hybrid (via interfaces)
+- **Method Overriding**: Using @Override annotation for polymorphic behavior
+- **Constructor Chaining**: Using super() to call parent constructors
+- **Access Modifiers**: Public, protected, private visibility in inheritance
+- **Polymorphism**: Dynamic method dispatch using parent references
+- **Liskov Substitution Principle**: Ensuring subclass substitutability
+- **Best Practices**: Composition over inheritance, avoiding deep hierarchies, proper use of abstract classes and interfaces
+
+## 🧪 Hands-on Practice
+**Inheritance Hierarchies Implemented:**
+- **Animal Hierarchy**: Animal superclass with Dog, Cat, Bird subclasses
+- **Employee Management**: Employee base class with Manager, Developer, Intern subclasses
+- **Vehicle System**: Vehicle superclass with Car, Truck, Motorcycle subclasses
+- **Bank Account Types**: BankAccount with Savings, Checking, FixedDeposit accounts
+- **School System**: Person superclass with Teacher, Student, Staff subclasses
+
+**Advanced Patterns:**
+- Library Management with Books and Authors (Single Inheritance)
+- Online Retail Order Management (Multilevel Inheritance)
+- Restaurant Management with Worker interface (Hybrid Inheritance)
+- Smart Home Devices hierarchy
+- Educational Course system with paid courses
+
+### 🔗Code Link:
+ 👉[Day 13 - Inheritance ](/java-oops-practice/gcr-codebase/JavaOopsPractice/src/com/bridgelabz/inheritance)
+
+ ---
+
 

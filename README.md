@@ -178,3 +178,17 @@
 ### 🔗Code Link:
  👉 [Leetcode](https://github.com/novapathak/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
  👉[scenario-based-problems](https://github.com/novapathak/BridgeLabz-Training/tree/core-java-practice/scenario-codebase)
+
+ ---
+
+## Day 13 - Scenario-based-problems and Leetcode problems
+**Date:** 31-Dec-2025
+
+- Solved 1 leetcode questions related to arrays 
+- Solved 5 Scenario based questions
+- Commited and pushed solutions to the repository
+
+### 🔗Code Link:
+ 👉 [Leetcode](https://github.com/novapathak/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+ 👉[scenario-based-problems](https://github.com/novapathak/BridgeLabz-Training/tree/core-java-practice/scenario-codebase)
+

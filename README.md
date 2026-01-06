@@ -307,9 +307,19 @@ Date -27-12-2025
 - University Management System: Students, Professors, Courses
 - Hospital System: Doctors, Patients, Consultations
 
+### 🧩 Scenario-Based Problems (Core-Java)
+- **Temperature Logger**: 7-day array storage, average/max calculation with for-loop and comparisons  
+- **Train Reservation**: Menu-driven seat booking with switch, while-loop until seats exhausted  
+- **Fitness Tracker**: Weekly push-up data processing with for-each, total/average calculation, skip rest days  
+- **Movie Booking**: Multi-customer system with nested switch/if, seat type/snack selection, clean structure  
+- **Library Reminder**: Due date tracking for 5 books, late fee calculation (₹5/day) with for-loop  
+- **Data Management**: Array storage, iterative processing, real-time state tracking  
+- **Business Automation**: Weather, transport, fitness, entertainment, and library systems
+
 
 ### 🔗Code Link:
  👉[Day 12 - UML Diagram and Object Modelling](/java-oops-practice/gcr-codebase/JavaOopsPractice/src/com/bridgelabz/objectmodelling/levelone)
+ 👉[Day12 - Scenario-based-practice](/scenario-codebase/day-five)
 
  ---
 

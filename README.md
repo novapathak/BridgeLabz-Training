@@ -106,3 +106,43 @@ Date -27-12-2025
 ### 🔗Code Link:
  👉 [Day11-this, static, final key words and instanceof operator](java-oops-practice/gcr-codebase/JavaOopsPractice/src/com/bridgelabz/keyword)
 
+ ---
+
+ Day 12 - UML Diagram and Object Modelling 
+ Date -30-12-2025
+
+## ✅ Overview
+- Learned to create and interpret UML diagrams: Class, Object, and Sequence Diagrams
+- Understood object relationships: Association, Aggregation, and Composition
+- Mastered best practices for visualizing object-oriented systems
+- Applied modeling concepts to real-world scenarios through practical exercises
+
+## 📘 Concepts Covered
+- **Class Diagrams**: Static structure, attributes, methods, relationships (association, aggregation, composition, inheritance)
+- **Object Diagrams**: Runtime snapshots showing object instances and their states
+- **Sequence Diagrams**: Dynamic interactions between objects over time
+- **Object Relationships**: Association (loose connection), Aggregation (has-a, independent parts), Composition (strong ownership, dependent parts)
+- **Communication**: Method calls and message passing between objects
+
+## 🧪 Hands-on Practice
+**Diagram Creation & Modeling:**
+- School Results Application: Student, Subject, GradeCalculator classes
+- Grocery Store Bill Generation: Customer, Product, BillGenerator system
+- Banking Project: BankAccount class with deposit/withdraw operations
+- School Management System: Student, Teacher, Course, School classes
+
+**Object Relationship Implementation:**
+- Library and Books (Aggregation)
+- Bank and Account Holders (Association)
+- Company and Departments (Composition)
+- E-commerce Platform: Orders, Customers, Products
+- University Management System: Students, Professors, Courses
+- Hospital System: Doctors, Patients, Consultations
+
+
+### 🔗Code Link:
+ 👉[Day 12 - UML Diagram and Object Modelling](/java-oops-practice/gcr-codebase/JavaOopsPractice/src/com/bridgelabz/objectmodelling/levelone)
+
+ ---
+
+

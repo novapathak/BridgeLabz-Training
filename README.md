@@ -34,14 +34,41 @@
 ## Day 10 – Java Constructors, Instance vs. Class Variables and Access Modifiers
 Date -27-12-2025
 
-* Studied about Java Constructors
-* Studied the difference between Instance and Class Variables
-* Studied Access Modifiers concepts
-* Solved problems related to this
-* Commited and pushed solutions to the repository
+## ✅ Overview
+- Learned constructor types (default, parameterized, copy) and their applications
+- Understood access modifiers (public, protected, private, package) for encapsulation
+- Differentiated between instance variables (object-specific) and class variables (shared)
+- Applied these concepts through real-world system implementations
 
+## 📘 Concepts Covered
+- **Constructor Types**: Default, parameterized, copy constructors, and constructor chaining
+- **Access Modifiers**: public, protected, private, and package-private visibility rules
+- **Instance vs Class Variables**: Per-object data vs shared static data
+- **Encapsulation Principles**: Private attributes with controlled access methods
+- **Constructor Best Practices**: Using `this`, keeping logic simple, constructor overloading
+
+## 🧪 Hands-on Practice
+**Constructor Programs:**
+- CoffeeShopOrder system with multiple constructor types
+- Book, Circle, and Person classes with various constructors
+- Hotel Booking System with booking management
+- Library Book System with borrowing functionality
+- Car Rental System with cost calculation
+
+**Instance vs Class Variables:**
+- School class tracking student count with static variable
+- Product Inventory with shared product counter
+- Online Course Management with common institute name
+- Vehicle Registration with fixed fee for all vehicles
+
+**Access Modifiers:**
+- University Management System with Student subclass
+- Book Library System with EBook subclass
+- Bank Account Management with SavingsAccount subclass
+- Employee Records with Manager subclass
+- 
 ### 🔗Code Link:
- 👉 [Day10-Java Constructors, Instance vs. Class Variables and Access Modifiers](https://github.com/novapathak/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsPractice/src/com/bridgelabz/constructor)
+ 👉[Day10-Java Constructors, Instance vs. Class Variables and Access Modifiers](/java-oops-practice/gcr-codebase/JavaOopsPractice/src/com/bridgelabz/constructor)
 
  ---
 

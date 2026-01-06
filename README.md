@@ -108,7 +108,7 @@ Date -27-12-2025
 
  ---
 
- Day 12 - UML Diagram and Object Modelling 
+## Day 12 - UML Diagram and Object Modelling 
  Date -30-12-2025
 
 ## ✅ Overview
@@ -145,7 +145,7 @@ Date -27-12-2025
 
  ---
 
- Day 13 - Inheritance 
+## Day 13 - Inheritance 
  Date -31-12-2025
 
 ## ✅ Overview
@@ -180,6 +180,46 @@ Date -27-12-2025
 
 ### 🔗Code Link:
  👉[Day 13 - Inheritance ](/java-oops-practice/gcr-codebase/JavaOopsPractice/src/com/bridgelabz/inheritance)
+
+ ---
+
+ ## Day 14 - Encapsulation, Polymorphism, Interface and Abstract Class
+ Date -01-01-2026
+
+ ## ✅ Overview
+- Mastered encapsulation, polymorphism, interfaces, and abstract classes - core OOP principles
+- Learned to combine these concepts for robust, flexible, and maintainable software design
+- Understood when to use each concept based on specific design requirements
+- Applied SOLID principles through practical implementation scenarios
+
+## 📘 Concepts Covered
+- **Encapsulation**: Data hiding using private fields with public getters/setters, validation logic
+- **Polymorphism**: Method overloading (compile-time) and overriding (runtime), dynamic method dispatch
+- **Interfaces**: Contracts for behavior, multiple inheritance simulation, default/static methods
+- **Abstract Classes**: Partial implementations, shared code bases, "is-a" relationships
+- **Interface vs Abstract Class**: Key differences and appropriate usage scenarios
+- **Type Checking**: Using `instanceof` operator and casting in polymorphic contexts
+
+## 🧪 Hands-on Practice
+**Core Implementations:**
+- **Bank Account System**: Encapsulation with validation in deposit/withdraw methods
+- **Calculator Class**: Method overloading for different parameter types
+- **Animal Hierarchy**: Runtime polymorphism through method overriding
+- **Shape Interface**: Interface-based polymorphism with Circle and Rectangle
+- **Vehicle System**: Abstract class with Car and Bike implementations
+
+**Advanced Systems:**
+- Employee Management with abstract classes and interfaces
+- E-commerce platform with product hierarchy and tax/discount interfaces
+- Vehicle rental system with insurable interface
+- Banking system with loanable interface
+- Library management with reservable items
+- Online food delivery with discountable interface
+- Hospital patient management system
+- Ride-hailing application with GPS interface
+
+### 🔗Code Link:
+ 👉[Day 14 - Inheritance ](/java-oops-practice/gcr-codebase/JavaOopsPractice/src/com/bridgelabz/encapsulation)
 
  ---
 

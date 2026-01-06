@@ -270,9 +270,8 @@ Date -27-12-2025
 **Recharge Simulator**: Operator-specific offers via switch, balance tracking with recharge loop  
 
 ### 🔗Code Link:
- 👉[Day11-this, static, final key words and instanceof operator](java-oops-practice/gcr-codebase/JavaOopsPractice/src/com/bridgelabz/keyword)
+ 👉[Day11-this, static, final key words and instanceof operator](java-oops-practice/gcr-codebase/JavaOopsPractice/src/com/bridgelabz/keyword) 
  👉[Day11-Scenario-based-practice](/scenario-codebase/day-three)
- 👉[Day11-Scenario-based-practice](/scenario-codebase/day-four)
 
  ---
 
@@ -319,7 +318,7 @@ Date -27-12-2025
 
 ### 🔗Code Link:
  👉[Day 12 - UML Diagram and Object Modelling](/java-oops-practice/gcr-codebase/JavaOopsPractice/src/com/bridgelabz/objectmodelling/levelone)
- 👉[Day12 - Scenario-based-practice](/scenario-codebase/day-five)
+ 👉[Day12 - Scenario-based-practice](/scenario-codebase/day-four)
 
  ---
 
@@ -356,9 +355,18 @@ Date -27-12-2025
 - Smart Home Devices hierarchy
 - Educational Course system with paid courses
 
+### 🧩 Scenario-Based Problems (Core-Java)
+- **Digital Watch**: Nested for-loop time simulation with break condition at 13:00  
+- **Quiz App**: Array-based 5-question MCQ system with score tracking and switch checking  
+- **Currency Exchange**: Switch-driven rate conversion with do-while for multiple transactions  
+- **Bus Tracker**: While-loop distance accumulation with user-controlled stop exit  
+- **Lucky Draw**: Divisibility check (3 & 5) with loop for visitors and input validation  
+- **Advanced Applications**: Timekeeping, education, finance, transport, and event management  
+- **Skill Focus**: Nested loops, arrays, user interaction, and real-time system simulation
+
 ### 🔗Code Link:
  👉[Day 13 - Inheritance ](/java-oops-practice/gcr-codebase/JavaOopsPractice/src/com/bridgelabz/inheritance)
-
+ 👉[Day13 - Scenario-based-practice](/scenario-codebase/day-five)
  ---
 
  ## Day 14 - Encapsulation, Polymorphism, Interface and Abstract Class

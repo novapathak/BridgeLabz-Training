@@ -120,8 +120,17 @@ Date -27-12-2025
 - `this` keyword for constructor initialization
 - `instanceof` for type validation before operations
 
+### 🧩 Scenario-Based Problems (Core-Java)
+**Parking Lot System**: Menu-driven (Park/Exit/Occupancy) with switch-case, real-time capacity tracking  
+**Number Guessing Game**: Random number challenge with do-while loop, hint system, 5-attempt limit  
+**Discount Dashboard**: Loop-based item pricing, tiered discount logic with constants and clear formatting  
+**Bus Attendance**: Student presence tracking with for-each loop, present/absent counts  
+**Recharge Simulator**: Operator-specific offers via switch, balance tracking with recharge loop  
+
 ### 🔗Code Link:
  👉 [Day11-this, static, final key words and instanceof operator](java-oops-practice/gcr-codebase/JavaOopsPractice/src/com/bridgelabz/keyword)
+ 👉[Day11-Scenario-based-practice](/scenario-codebase/day-three)
+
 
  ---
 

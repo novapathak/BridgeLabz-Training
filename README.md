@@ -41,7 +41,7 @@ Date -27-12-2025
 - Applied these concepts through real-world system implementations
 
 ## 📘 Concepts Covered
-- **Constructor Types**: Default, parameterized, copy constructors, and constructor chaining
+- **Constructor Types**: Default, parameterized, copy constructors, and constructor chaining.
 - **Access Modifiers**: public, protected, private, and package-private visibility rules
 - **Instance vs Class Variables**: Per-object data vs shared static data
 - **Encapsulation Principles**: Private attributes with controlled access methods

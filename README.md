@@ -173,19 +173,20 @@
 - Student grade system, ATM simulator, Palindrome checker
 - Movie ticket booking, Shopping cart simulation
 
-### 🧩 Scenario-Based Problems (OOP Practice)
+### 🧩 Scenario-Based Problems (Core-Java)
 
-**Election Booth Manager**: Age validation, candidate voting, multi-voter loop with exit code  
-**Metro Smart Card System**: Distance-based fare calculation using ternary operator, balance deduction  
-**Result Generator**: 5-subject input, average calculation, grade assignment with switch statement  
-**Core Concepts**: Conditional logic, loops, operators, input/output handling  
-**Practical Focus**: Real-world systems simulation and business logic implementation  
-**Skill Development**: Problem analysis, algorithm design, and modular programming  
-**Outcome**: Three functional systems demonstrating diverse Java applications
+- **Election Booth Manager**: Age validation, candidate voting, multi-voter loop with exit code  
+- **Metro Smart Card System**: Distance-based fare calculation using ternary operator, balance deduction  
+- **Result Generator**: 5-subject input, average calculation, grade assignment with switch statement  
+- **Core Concepts**: Conditional logic, loops, operators, input/output handling  
+- **Practical Focus**: Real-world systems simulation and business logic implementation  
+- **Skill Development**: Problem analysis, algorithm design, and modular programming  
+- **Outcome**: Three functional systems demonstrating diverse Java applications
 
 ### 🔗Code Link:
  👉[Day9-classes-and-object](/java-oops-practice/gcr-codebase/JavaOopsPractice/src/com/bridgelabz/oops)
  👉[Day9- Scenario-based-practice](scenario-codebase/day-one)
+ 👉[Day9- Scenario-based-practice](scenario-codebase/day-two)
   
 ---
 
@@ -261,8 +262,17 @@ Date -27-12-2025
 - `this` keyword for constructor initialization
 - `instanceof` for type validation before operations
 
+### 🧩 Scenario-Based Problems (Core-Java)
+**Parking Lot System**: Menu-driven (Park/Exit/Occupancy) with switch-case, real-time capacity tracking  
+**Number Guessing Game**: Random number challenge with do-while loop, hint system, 5-attempt limit  
+**Discount Dashboard**: Loop-based item pricing, tiered discount logic with constants and clear formatting  
+**Bus Attendance**: Student presence tracking with for-each loop, present/absent counts  
+**Recharge Simulator**: Operator-specific offers via switch, balance tracking with recharge loop  
+
 ### 🔗Code Link:
- 👉 [Day11-this, static, final key words and instanceof operator](java-oops-practice/gcr-codebase/JavaOopsPractice/src/com/bridgelabz/keyword)
+ 👉[Day11-this, static, final key words and instanceof operator](java-oops-practice/gcr-codebase/JavaOopsPractice/src/com/bridgelabz/keyword)
+ 👉[Day11-Scenario-based-practice](/scenario-codebase/day-three)
+ 👉[Day11-Scenario-based-practice](/scenario-codebase/day-four)
 
  ---
 

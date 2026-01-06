@@ -32,8 +32,19 @@
 - Student grade system, ATM simulator, Palindrome checker
 - Movie ticket booking, Shopping cart simulation
 
+### 🧩 Scenario-Based Problems (Core-Java)
+- **Election Booth Manager**: Age validation, candidate voting, multi-voter loop with exit code  
+- **Metro Smart Card System**: Distance-based fare calculation using ternary operator, balance deduction  
+- **Result Generator**: 5-subject input, average calculation, grade assignment with switch statement  
+- **Core Concepts**: Conditional logic, loops, operators, input/output handling  
+- **Practical Focus**: Real-world systems simulation and business logic implementation  
+- **Skill Development**: Problem analysis, algorithm design, and modular programming  
+- **Outcome**: Three functional systems demonstrating diverse Java applications
+
 ### 🔗Code Link:
  👉 [Day9-classes-and-object](/java-oops-practice/gcr-codebase/JavaOopsPractice/src/com/bridgelabz/oops)
+ 👉[Day9- Scenario-based-practice](scenario-codebase/day-one)
+ 👉[Day9- Scenario-based-practice](scenario-codebase/day-two)
   
 ---
 

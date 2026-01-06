@@ -271,3 +271,50 @@ Date -27-12-2025
  👉[Day 15 - LinkedList](/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/linkedlist)
 
  ---
+
+## Day 16 - Stacks, Queues, Hash Maps and Hash Functions
+Date -03-01-2026
+
+## ✅ Overview
+- Learned core linear data structures: Stacks (LIFO) and Queues (FIFO)
+- Mastered HashMap for efficient key-value pair storage and retrieval
+- Understood hashing functions and collision handling techniques
+- Applied these structures to solve real-world computational problems
+
+## 📘 Concepts Covered
+- **Stacks**: LIFO principle, push/pop/peek operations, balanced parentheses validation, call stack management
+- **Queues**: FIFO principle, enqueue/dequeue operations, types (simple, priority, deque), ticket counter simulation
+- **HashMaps**: Key-value storage, hash functions, bucket management, collision resolution (separate chaining)
+- **Hashing**: Hash code computation, equals() and hashCode() overriding, collision minimization
+- **Performance**: Time/space complexity analysis for each data structure
+
+## 🧪 Hands-on Practice
+**Stack Implementations:**
+- Balanced Parentheses Checker using stack validation
+- Expression evaluation and syntax checking
+- Undo/redo functionality simulation
+
+**Queue Implementations:**
+- Ticket counter management system
+- Task scheduling with FIFO processing
+- Breadth-first search algorithms
+
+**HashMap Implementations:**
+- Word frequency counter
+- Custom Employee class with hashCode() and equals() overrides
+- Efficient data lookup systems
+
+**Advanced Problems:**
+- Implement queue using two stacks
+- Sort stack using recursion
+- Stock span problem with stack optimization
+- Sliding window maximum using deque
+- Find zero-sum subarrays using hash maps
+- Longest consecutive sequence detection
+- Custom HashMap implementation with collision handling
+
+### 🔗Code Link:
+ 👉[Day 16 - Stacks, Queues, Hash Maps and Hash Functions](/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/stackqueue)
+ 
+ ---
+

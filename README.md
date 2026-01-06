@@ -165,9 +165,20 @@ Date -27-12-2025
 - University Management System: Students, Professors, Courses
 - Hospital System: Doctors, Patients, Consultations
 
+### 🧩 Scenario-Based Problems (Core-Java)
+- **Temperature Logger**: 7-day array storage, average/max calculation with for-loop and comparisons  
+- **Train Reservation**: Menu-driven seat booking with switch, while-loop until seats exhausted  
+- **Fitness Tracker**: Weekly push-up data processing with for-each, total/average calculation, skip rest days  
+- **Movie Booking**: Multi-customer system with nested switch/if, seat type/snack selection, clean structure  
+- **Library Reminder**: Due date tracking for 5 books, late fee calculation (₹5/day) with for-loop  
+- **Data Management**: Array storage, iterative processing, real-time state tracking  
+- **Business Automation**: Weather, transport, fitness, entertainment, and library systems
+
+
 
 ### 🔗Code Link:
  👉[Day 12 - UML Diagram and Object Modelling](/java-oops-practice/gcr-codebase/JavaOopsPractice/src/com/bridgelabz/objectmodelling/levelone)
+ 👉[Day12 - Scenario-based-practice](/scenario-codebase/day-four)
 
  ---
 
@@ -204,8 +215,18 @@ Date -27-12-2025
 - Smart Home Devices hierarchy
 - Educational Course system with paid courses
 
+### 🧩 Scenario-Based Problems (Core-Java)
+- **Digital Watch**: Nested for-loop time simulation with break condition at 13:00  
+- **Quiz App**: Array-based 5-question MCQ system with score tracking and switch checking  
+- **Currency Exchange**: Switch-driven rate conversion with do-while for multiple transactions  
+- **Bus Tracker**: While-loop distance accumulation with user-controlled stop exit  
+- **Lucky Draw**: Divisibility check (3 & 5) with loop for visitors and input validation  
+- **Advanced Applications**: Timekeeping, education, finance, transport, and event management  
+- **Skill Focus**: Nested loops, arrays, user interaction, and real-time system simulation
+
 ### 🔗Code Link:
  👉[Day 13 - Inheritance ](/java-oops-practice/gcr-codebase/JavaOopsPractice/src/com/bridgelabz/inheritance)
+ 👉[Day 13 - Scenario-based-practice](/scenario-codebase/day-five)
 
  ---
 
@@ -244,8 +265,18 @@ Date -27-12-2025
 - Hospital patient management system
 - Ride-hailing application with GPS interface
 
+### 🧩 Scenario-Based Problems (OOPS Practice)
+- **Analyze Scenario**: Read twice, identify entities (classes) and actions (methods)
+- **Single Responsibility**: Each class handles one clear concept
+- **Design Classes**: Define attributes, constructors, and access modifiers (private/public)
+- **Plan Relationships**: Use inheritance for "is-a" and interfaces for multiple behaviors
+- **Choose Data Structures**: Select appropriate collections (ArrayList, HashMap, etc.)
+- **Implement Modularly**: Break into components, build step-by-step
+- **Test Thoroughly**: Validate with multiple inputs and edge cases
+
 ### 🔗Code Link:
  👉[Day 14 - Encapsulation, Polymorphism, Interface and Abstract Class](/java-oops-practice/gcr-codebase/JavaOopsPractice/src/com/bridgelabz/encapsulation)
+ 👉[Day 14 - Scenario-based-practice](/java-oops-practice/scenerio-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day01)
 
 ---
 

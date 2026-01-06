@@ -365,8 +365,9 @@ Date -27-12-2025
 - **Skill Focus**: Nested loops, arrays, user interaction, and real-time system simulation
 
 ### 🔗Code Link:
- 👉[Day 13 - Inheritance ](/java-oops-practice/gcr-codebase/JavaOopsPractice/src/com/bridgelabz/inheritance)
+ 👉[Day 13 - Inheritance](/java-oops-practice/gcr-codebase/JavaOopsPractice/src/com/bridgelabz/inheritance)
  👉[Day13 - Scenario-based-practice](/scenario-codebase/day-five)
+ 
  ---
 
  ## Day 14 - Encapsulation, Polymorphism, Interface and Abstract Class
@@ -404,7 +405,17 @@ Date -27-12-2025
 - Hospital patient management system
 - Ride-hailing application with GPS interface
 
+### 🧩 Scenario-Based Problems (OOPS Practice)
+- **Analyze Scenario**: Read twice, identify entities (classes) and actions (methods)
+- **Single Responsibility**: Each class handles one clear concept
+- **Design Classes**: Define attributes, constructors, and access modifiers (private/public)
+- **Plan Relationships**: Use inheritance for "is-a" and interfaces for multiple behaviors
+- **Choose Data Structures**: Select appropriate collections (ArrayList, HashMap, etc.)
+- **Implement Modularly**: Break into components, build step-by-step
+- **Test Thoroughly**: Validate with multiple inputs and edge cases
+
 ### 🔗Code Link:
  👉[Day 14 - Encapsulation, Polymorphism, Interface and Abstract Class](/java-oops-practice/gcr-codebase/JavaOopsPractice/src/com/bridgelabz/encapsulation)
-
----
+ 👉[Day 14 - Scenario-based-practice](/java-oops-practice/scenerio-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day01)
+ 
+ ---

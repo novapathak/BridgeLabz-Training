@@ -604,3 +604,99 @@ Date -03-01-2026
 
 
 
+## Day 17 - Sorting Algorithm
+Date -05-01-2026
+
+### ✅ Overview
+- Explored **multiple sorting algorithms** and understood their use cases  
+- Compared **time and space complexities** of different sorting techniques  
+- Learned why **algorithm selection** is crucial for performance optimization  
+
+### 📘 Core Sorting Algorithms Covered
+- **Bubble Sort** – Sorting student marks by comparing adjacent elements  
+- **Insertion Sort** – Sorting employee IDs by building a sorted section incrementally  
+- **Merge Sort** – Sorting book prices using divide, sort, and merge approach  
+- **Quick Sort** – Sorting product prices using pivot-based partitioning  
+- **Selection Sort** – Sorting exam scores by repeatedly selecting the minimum  
+- **Heap Sort** – Sorting salary demands using a max-heap structure  
+- **Counting Sort** – Sorting student ages with limited range using frequency counts  
+
+### 🧪 Hands-on Practice
+- Implemented all **7 sorting algorithms** in code  
+- Applied each algorithm to a **real-world dataset** (marks, IDs, prices, etc.)  
+- Tested and validated outputs for **ascending order sorting**  
+- Analyzed algorithm behavior with different input sizes  
+- Committed and pushed all implementations to the repository  
+
+### 📈 Key Takeaways
+- Understood when to use **comparison-based vs non-comparison-based** sorts  
+- Recognized trade-offs between **time complexity, space usage, and stability**  
+- Gained practical experience in **algorithm implementation and debugging**
+
+### 🔗Code Link:
+ 👉[Day 17 -Sorting Algorithm](/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/sorting)
+ 
+
+---
+
+## Day 18 - Linear and Binary Search
+Date -06-01-2026
+
+### ✅ Overview
+- Explored **two fundamental search algorithms** and their optimal use cases  
+- Compared **linear vs binary search** performance and implementation approaches  
+- Learned **best practices** for string manipulation and file I/O operations in Java  
+
+### 📘 Core Concepts Covered
+
+#### 🔍 Search Algorithms
+- **Linear Search** – Sequential checking for unsorted/small datasets
+- **Binary Search** – Efficient divide-and-conquer approach for sorted data
+
+#### 📝 String Handling
+- **StringBuilder** – High-performance mutable strings for single-threaded environments
+- **StringBuffer** – Thread-safe string manipulation with synchronization
+
+#### 📁 File I/O Operations
+- **FileReader** – Efficient reading of character/text files
+- **InputStreamReader** – Converting byte streams to character streams with encoding support
+
+### 🧪 Hands-on Practice Implemented
+
+#### String Manipulation Problems
+- Reversed strings using **StringBuilder.reverse()**
+- Removed duplicate characters while maintaining order
+- Compared **StringBuilder vs StringBuffer** performance with 1M concatenations
+- Implemented efficient string concatenation for large datasets
+
+#### File Operations Practice
+- Read files line-by-line using **FileReader + BufferedReader**
+- Counted word occurrences in text files
+- Converted byte streams to character streams with proper encoding
+- Created interactive console-to-file input systems
+
+#### Search Algorithm Implementations
+- Found first negative number in arrays using **Linear Search**
+- Located specific words in sentences collections
+- Implemented **Binary Search** variants:
+  - Found rotation points in rotated sorted arrays
+  - Identified peak elements in arrays
+  - Searched 2D sorted matrices efficiently
+  - Found first/last occurrences of elements
+- Solved combined challenges using both search approaches
+
+👉[Day18 - Linear and Binary Search](/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/stringbuffer)
+👉[Day18 - Linear and Binary Search](/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/stringbuilder)
+👉[Day18 - Linear and Binary Search](/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/filereader)
+👉[Day18 - Linear and Binary Search](/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/inputstreamreader)
+👉[Day18 - Linear and Binary Search](/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/linearsearch)
+
+
+---
+
+
+
+
+
+
+

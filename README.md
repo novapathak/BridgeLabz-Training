@@ -86,4 +86,36 @@ Date -03-01-2026
  
  ---
 
+## Day 17 - Sorting Algorithm
+Date -05-01-2026
+
+### ✅ Overview
+- Explored **multiple sorting algorithms** and understood their use cases  
+- Compared **time and space complexities** of different sorting techniques  
+- Learned why **algorithm selection** is crucial for performance optimization  
+
+### 📘 Core Sorting Algorithms Covered
+- **Bubble Sort** – Sorting student marks by comparing adjacent elements  
+- **Insertion Sort** – Sorting employee IDs by building a sorted section incrementally  
+- **Merge Sort** – Sorting book prices using divide, sort, and merge approach  
+- **Quick Sort** – Sorting product prices using pivot-based partitioning  
+- **Selection Sort** – Sorting exam scores by repeatedly selecting the minimum  
+- **Heap Sort** – Sorting salary demands using a max-heap structure  
+- **Counting Sort** – Sorting student ages with limited range using frequency counts  
+
+### 🧪 Hands-on Practice
+- Implemented all **7 sorting algorithms** in code  
+- Applied each algorithm to a **real-world dataset** (marks, IDs, prices, etc.)  
+- Tested and validated outputs for **ascending order sorting**  
+- Analyzed algorithm behavior with different input sizes  
+- Committed and pushed all implementations to the repository  
+
+### 📈 Key Takeaways
+- Understood when to use **comparison-based vs non-comparison-based** sorts  
+- Recognized trade-offs between **time complexity, space usage, and stability**  
+- Gained practical experience in **algorithm implementation and debugging**  
+
+---
+
+
 

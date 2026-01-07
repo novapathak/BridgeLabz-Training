@@ -1,14 +1,27 @@
 # BridgeLabz
 
-# Week 1: Git, GitHub & Java Programming Fundamentals
+## 📅 Week 1: Git, GitHub & Java Programming Fundamentals
 
-### 📅 Day 1 – Git & GitHub Setup
+---
 
-(Date: 16-Dec-2025)
+## Day 1 – Git & GitHub Setup  
+Date – 16-12-2025
 
-* Installed and configured Git.
+## ✅ Overview
+- Introduced to version control concepts using Git
+- Learned the importance of GitHub for code collaboration and backup
+- Set up a structured project repository for Java practice
+- Established a strong foundation for tracking and managing code changes
 
-* Set up GitHub repository.
+## 📘 Concepts Covered
+- Git Installation & Configuration
+- GitHub Repository Setup
+- Version Control Basics
+- Repository Structure & Organization
+- Essential Git Commands: init, clone, add, commit, push
+
+## 🧪 Hands-on Practice
+Repository Structure Setup:
 
     ```text
     BridgeLabz-Training/
@@ -22,129 +35,210 @@
     └── README.md
     ```
 
-* Learned basic Git commands ( `init` , `clone` , `add` , `commit` , `push` ).
 
-* Successfully pushed files to the remote repository.
+- Initialized local Git repository
+- Connected local repo to GitHub
+- Successfully pushed initial project structure
 
-
----
-
-### 🗓 Day 2 – Git Practice & Basic Java Programs  
-*(Date: 17-Dec-2025)*
-
-- Practiced Git workflow to understand commits and version control.
-- Solved very basic Java programs to understand syntax and structure.
-- Practiced adding, committing, and pushing Java files to GitHub.
-
-🔗 *Code Link:*  
-👉[Day 2 – Basic Java Programs](https://github.com/novapathak/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisites)
+### 🔗 Code Link:
+👉 GitHub Repository Setup
 
 ---
 
-### 🗓 Day 3 – Programming Elements in Java  
-*(Date: 18-Dec-2025)*
+## Day 2 – Git Practice & Basic Java Programs  
+Date – 17-12-2025
 
-- Studied Java programming elements:
-  - Variables and data types
-  - Operators
-  - User input and output
-- Solved practice problems based on programming elements.
-- Committed and pushed solutions to the repository.
+## ✅ Overview
+- Strengthened understanding of Git workflow
+- Learned how commits help track code evolution
+- Started writing basic Java programs to understand syntax
+- Practiced pushing code updates to GitHub regularly
 
-🔗 *Code Link:*  
-👉[Day 3 – Programming Elements](https://github.com/novapathak/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+## 📘 Concepts Covered
+- Git Workflow: add → commit → push
+- Java Program Structure
+- Main Method & Syntax Rules
+- Basic Console Output
 
----
+## 🧪 Hands-on Practice
+Level 1 Programs:
+- Simple Java programs for syntax familiarity
+- Console-based output programs
 
-### 🗓 Day 4 – Control Flow & Logical Constructs  
-*(Date: 19-Dec-2025)*
+Git Practice:
+- Multiple commits to understand version tracking
+- Repository update and synchronization
 
-- Studied logical constructs in Java:
-  - if, if-else
-  - switch statement
-  - ternary operator
-- Practiced iteration statements:
-  - for loop
-  - while loop
-  - do-while loop
-- Used break and continue statements.
-- Solved logical problems such as:
-  - Factorial
-  - Prime number check
-- Committed and pushed solutions to the repository.
-
-🔗 *Code Link:*  
-👉[Day 4 – Control Flow](https://github.com/novapathak/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
+### 🔗 Code Link:
+👉 https://github.com/novapathak/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisites
 
 ---
 
-### 🗓 Day 5 – Arrays & Basic Problem Solving  
-*(Date: 20-Dec-2025)*
+## Day 3 – Programming Elements in Java  
+Date – 18-12-2025
 
-- Studied arrays in Java:
-  - Single-dimensional arrays
-  - Multi-dimensional arrays
-- Practiced array traversal and operations.
-- Solved problems related to:
-  - Finding missing elements
-  - Basic array-based logic
-- Strengthened logical thinking using array problems.
-- Committed and pushed solutions to the repository.
+## ✅ Overview
+- Learned the building blocks of Java programming
+- Understood how data flows through variables and operators
+- Practiced writing programs using user input
+- Improved confidence in basic Java logic
 
-🔗 *Code Link:*  
-👉[Day 5 – Arrays](https://github.com/novapathak/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+## 📘 Concepts Covered
+- Variables & Data Types
+- Operators: Arithmetic, Relational, Logical
+- User Input using Scanner
+- Output Formatting
 
----
+## 🧪 Hands-on Practice
+Level 1 Programs:
+- Variable-based calculations
+- Operator-driven logic problems
 
-### 🗓 Day 6 – Strings & Methods  
-*(Date: 22-Dec-2025)*
+Practice Focus:
+- Writing clean and readable code
+- Logical thinking with basic constructs
 
-- Studied String concepts:
-  - String creation
-  - String methods
-  - Character processing
-- Implemented programs for string manipulation.
-- Studied Java methods:
-  - Method declaration
-  - Method calling
-  - Parameter passing
-- Practiced reusable logic using methods.
-- Committed and pushed solutions to the repository.
-
-🔗 *Code Link:*  
-👉[Day 6 – Strings & Methods](https://github.com/novapathak/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
+### 🔗 Code Link:
+👉 https://github.com/novapathak/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements
 
 ---
 
-### 🗓 Day 7 – Built-in Functions & Extra Practice  
-*(Date: 23-Dec-2025)*
+## Day 4 – Control Flow & Logical Constructs  
+Date – 19-12-2025
 
-- Practiced Java built-in functions.
-- Implemented utility programs such as:
-  - Temperature Converter
-- Improved understanding of:
-  - Input handling
-  - Type conversion
-- Organized programs into proper folders.
-- Committed and pushed all changes successfully.
+## ✅ Overview
+- Learned decision-making in Java programs
+- Implemented branching and looping mechanisms
+- Solved logical problems using conditions and loops
+- Strengthened problem-solving skills
 
-🔗 *Code Link:*  
-👉[Day 7 – Built-in Functions](https://github.com/novapathak/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra)
+## 📘 Concepts Covered
+- Conditional Statements: if, if-else, switch
+- Ternary Operator
+- Loops: for, while, do-while
+- Loop Control: break, continue
+
+## 🧪 Hands-on Practice
+Level 1 Programs:
+- Factorial calculation
+- Prime number checking
+- Conditional-based problems
+
+Skill Development:
+- Logical reasoning
+- Efficient loop usage
+
+### 🔗 Code Link:
+👉 https://github.com/novapathak/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows
 
 ---
 
-### 🗓 Day 8 – Scenario Based questions
-*(Date: 24-Dec-2025)*
+## Day 5 – Arrays & Basic Problem Solving  
+Date – 20-12-2025
 
-**Practical Business Applications**: Coffee shop billing & fitness tracking systems  
-**Core Skills**: Control structures, calculations, user input handling  
-**Problem-Solving**: Requirement analysis, validation, testing  
-**Outcome**: Functional applications, development foundation, portfolio projects  
-**Real-World Value**: Direct business problem solving with code  
-**Skill Progression**: Ready for advanced OOP and real development work
+## ✅ Overview
+- Introduced to data storage using arrays
+- Learned to process multiple values efficiently
+- Solved logical problems using array traversal
+- Enhanced analytical thinking
+
+## 📘 Concepts Covered
+- Single-Dimensional Arrays
+- Multi-Dimensional Arrays
+- Array Traversal
+- Basic Searching & Logic
+
+## 🧪 Hands-on Practice
+Level 1 Programs:
+- Array initialization and traversal
+- Missing element identification
+- Basic array operations
+
+Outcome:
+- Improved data-handling capability
+- Strong foundation for data structures
+
+### 🔗 Code Link:
+👉 https://github.com/novapathak/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays
 
 ---
 
+## Day 6 – Strings & Methods  
+Date – 22-12-2025
+
+## ✅ Overview
+- Learned how Java handles textual data
+- Practiced string manipulation techniques
+- Introduced to methods for reusable logic
+- Improved modular coding practices
+
+## 📘 Concepts Covered
+- String Creation & Methods
+- Character Processing
+- Method Declaration & Calling
+- Parameter Passing
+
+## 🧪 Hands-on Practice
+Level 1 Programs:
+- String manipulation programs
+- Method-based reusable solutions
+
+Programming Focus:
+- Code reusability
+- Clean and modular design
+
+### 🔗 Code Link:
+👉 https://github.com/novapathak/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings
+
+---
+
+## Day 7 – Built-in Functions & Extra Practice  
+Date – 23-12-2025
+
+## ✅ Overview
+- Explored Java’s built-in utility functions
+- Practiced real-life utility programs
+- Strengthened understanding of input and conversion
+- Improved overall coding confidence
+
+## 📘 Concepts Covered
+- Java Built-in Functions
+- Type Conversion
+- Input Handling
+- Utility-Based Programs
+
+## 🧪 Hands-on Practice
+Utility Programs:
+- Temperature Converter
+- Input-based calculation tools
+
+Outcome:
+- Better command over Java APIs
+- Organized project structure
+
+### 🔗 Code Link:
+👉 https://github.com/novapathak/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra
+
+---
+
+## Day 8 – Scenario-Based Questions  
+Date – 24-12-2025
+
+## ✅ Overview
+- Applied Java fundamentals to real-world business scenarios
+- Translated requirements into working programs
+- Strengthened problem analysis and validation skills
+- Prepared for transition into Object-Oriented Programming
+
+## 🧩 Scenario-Based Problems (Core Java)
+- Coffee Shop Billing System: Item-based billing and total calculation
+- Fitness Tracking System: Activity tracking and validations
+- Core Concepts: Control flow, calculations, input/output
+- Practical Focus: Business logic and real-world simulation
+- Skill Development: Requirement analysis, testing, debugging
+- Outcome: Functional applications and portfolio-ready projects
+
+---
 ## 📅 Week 2: Object-Oriented Programming
 
 ---

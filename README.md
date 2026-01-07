@@ -296,5 +296,23 @@ Date -31-12-2025
 
 ---
 
+## 📌 Day 16 – Solved Scenario-Based Problems
+**(Date: 3-Jan-2026)**
+
+### 🧩 Scenario-Based Problems (OOP Practice)
+- Modeled real-world systems such as:
+  - Ride-hailing and banking applications
+  - Customer, account, vehicle, and service-based systems
+- Identified classes, attributes, and behaviors from problem statements
+- Applied OOP principles:
+  - Encapsulation to protect sensitive data
+  - Inheritance for shared behavior
+  - Interfaces for contracts
+  - Polymorphism for dynamic behavior
+- Strengthened ability to translate real-world requirements into clean OOP designs
+
+### 🔗 Code Links
+👉 [Day 16 – Scenario-Based Problems](/java-oops-practice/scenerio-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day02)
 
 ---
+

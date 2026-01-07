@@ -276,7 +276,25 @@ Date -31-12-2025
 
 ### 🔗Code Link:
  👉[Day 14 - Encapsulation, Polymorphism, Interface and Abstract Class](/java-oops-practice/gcr-codebase/JavaOopsPractice/src/com/bridgelabz/encapsulation)
- 👉[Day 14 - Scenario-based-practice](/java-oops-practice/scenerio-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day01)
 
 ---
 
+## 📌 Day 15 – Solved Scenario-Based Problems
+**(Date: 2-Jan-2026)**
+
+### 🧩 Scenario-Based Problems (OOP Practice)
+- Solved real-world **object-oriented scenario-based problems**
+- Focused on identifying:
+  - Classes, attributes, and behaviors
+  - Relationships such as inheritance and association
+- Applied OOP principles including encapsulation, inheritance, and polymorphism
+- Designed class-based solutions without involving data structure logic
+- Strengthened ability to convert problem statements into clean OOP designs
+
+### 🔗 Code Links
+👉 [Day 15 – Scenario-Based Problems](/java-oops-practice/scenerio-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day01)
+
+---
+
+
+---

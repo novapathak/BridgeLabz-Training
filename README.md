@@ -335,6 +335,29 @@ Date -31-12-2025
 ### 🔗 Code Links
 👉 [Day 17 – Scenario-Based Problems](/java-oops-practice/scenerio-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day03)
 
---=
+---
+
+
+## 📌 Day 18 – Solved Scenario-Based Problems
+**(Date: 6-Jan-2026)**
+
+### 🧩 Scenario-Based Problems (OOP Practice)
+- Designed real-world systems such as:
+  - Learning platforms, fitness trackers, virtual pet care, and event management systems
+- Identified classes, attributes, methods, and relationships from problem statements
+- Applied OOP principles:
+  - Encapsulation for data protection
+  - Inheritance for shared behavior
+  - Interfaces for defining contracts
+  - Polymorphism for dynamic and extensible designs
+- Strengthened ability to translate real-world requirements into clean, maintainable OOP solutions
+
+### 🔗 Code Links
+👉 [Day 18 – Scenario-Based Problems](/java-oops-practice/scenerio-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day04)
+👉 [Day 18 – Scenario-Based Problems](/java-oops-practice/scenerio-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day05)
+
+---
+
+
 
 

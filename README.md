@@ -167,11 +167,11 @@ Date -06-01-2026
   - Found first/last occurrences of elements
 - Solved combined challenges using both search approaches
 
-👉[Day18 - Linear and Binary Search](/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/stringbuffer)
-👉[Day18 - Linear and Binary Search](/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/stringbuilder)
-👉[Day18 - Linear and Binary Search](/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/filereader)
-👉[Day18 - Linear and Binary Search](/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/inputstreamreader)
-👉[Day18 - Linear and Binary Search](/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/linearsearch)
+- 👉[Day18 - Linear and Binary Search](/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/stringbuffer)
+- 👉[Day18 - Linear and Binary Search](/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/stringbuilder)
+- 👉[Day18 - Linear and Binary Search](/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/filereader)
+- 👉[Day18 - Linear and Binary Search](/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/inputstreamreader)
+- 👉[Day18 - Linear and Binary Search](/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/bridgelabz/linearsearch)
 
 
 ---

@@ -716,6 +716,18 @@ Date -06-01-2026
 
 ---
 
+## 📌 Day 20 – Solved Scenario-Based Problems
+**(Date: 8-Jan-2026)**
+
+### 🧩 Scenario-Based Problems (OOP Practice)
+- Built **MediStore** (pharmacy system) with Medicine hierarchy, ISellable interface, and polymorphic expiry checks
+- Created **TourMate** (travel planner) with Trip hierarchy, IBookable interface, and polymorphic booking logic  
+- Applied **Encapsulation** to hide pricing/stock details and **Inheritance** for Tablet/Syrup/Injection and International/Domestic trips
+- Implemented **Polymorphism** through interface methods and used constructors, operators, and access modifiers
+- Strengthened OOP design by translating real requirements into maintainable class structures
+
+### 🔗 Code Links
+👉 [Day 20 – Scenario-Based Problems](/java-oops-practice/scenerio-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day07)
 
 
 

@@ -393,5 +393,21 @@ Date -31-12-2025
 ### 🔗 Code Links
 👉 [Day 20 – Scenario-Based Problems](/java-oops-practice/scenerio-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day07)
 
+---
+
+## 📌 Day 21 – Solved Scenario-Based Problems
+**(Date: 9-Jan-2026)**
+### 🧩 Scenario-Based Problems (OOP Practice)
+- Built **Artify** with Artwork hierarchy, IPurchasable interface, and polymorphic licensing across DigitalArt/PrintArt  
+- Created **FoodLoop** with FoodItem hierarchy, IOrderable interface, and polymorphic discount logic for Veg/NonVeg items  
+- Developed **SkillForge** with Course/User inheritance, ICertifiable interface, and polymorphic certificate generation by course level  
+- Applied **Encapsulation** to protect licensing terms, stock levels, and rating logic in respective systems  
+- Strengthened OOP design with constructors, operators, and access modifiers across all three projects
+
+### 🔗 Code Links
+👉 [Day 21 – Scenario-Based Problems](/java-oops-practice/scenerio-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/day08)
+
+---
+
 
 

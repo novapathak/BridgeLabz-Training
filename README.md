@@ -745,7 +745,19 @@ Date -06-01-2026
 
 ---
 
+## 📌 Day 22 – Solved Scenario-Based Problems
+**(Date: 10-Jan-2026)**
+### 🧩 Scenario-Based Problems (Data Structures Practice)
+- Built **BookShelf** using HashMap and LinkedList for genre-based book organization with efficient insert/delete operations
+- Created **BrowserBuddy** with Doubly Linked List for tab history and Stack for closed tabs, enabling forward/backward navigation
+- Developed **AmbulanceRoute** using Circular Linked List to model hospital units and simulate patient redirection in circular paths
+- Applied **HashMap, LinkedList (Singly, Doubly, Circular), and Stack** to solve real-world problems efficiently
+- Strengthened data structure design for dynamic memory management and optimized operations
 
+### 🔗 Code Links
+👉 [Day 22 – Scenario-Based Problems](/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/dsa/day01)
+
+---
 
 
 

@@ -759,5 +759,18 @@ Date -06-01-2026
 
 ---
 
+## 📌 Day 23 – Solved Scenario-Based Problems
+**(Date: 12-Jan-2026)**
+
+### 🧩 Scenario-Based Problems (Data Structures Practice)
+- Built **CallCenter** using Queue for call management, HashMap for customer data tracking, and Priority Queue for VIP customers  
+- Created **TrainCompanion** with Doubly Linked List for compartment navigation supporting forward/backward traversal and dynamic insertion/removal
+- Applied **Queue, HashMap, PriorityQueue, and Doubly Linked List** to solve real-world problems efficiently
+- Strengthened data structure design for dynamic management and optimized operations
+
+### 🔗 Code Links
+👉 [Day 23 – Scenario-Based Problems](/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/dsa/day02)
+
+---
 
 

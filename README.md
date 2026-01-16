@@ -190,5 +190,17 @@ Date -06-01-2026
 
 ---
 
+## 📌 Day 26 – Solved Scenario-Based Problems
+**(Date: 16-Jan-2026)**
+### 🧩 Scenario-Based Problems (Sorting Algorithms Practice)
+- Built **RoboWarehouse** using Insertion Sort for dynamic package insertion by weight
+- Created **CinemaHouse** with Bubble Sort for simple movie time sorting on small datasets
+- Developed **CropMonitor** using Quick Sort for fast ordering of large sensor data by timestamp
+- Applied **Insertion, Bubble, and Quick Sort** based on data size, insertion pattern, and performance needs
+- Strengthened algorithm selection skills by matching sorting techniques to real-world constraints
 
+### 🔗 Code Links
+👉 [Day 26 – Scenario-Based Problems](/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/dsa/day05)
+
+---
 

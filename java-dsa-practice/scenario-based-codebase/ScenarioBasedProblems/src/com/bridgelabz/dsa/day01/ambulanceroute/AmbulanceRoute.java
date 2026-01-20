@@ -12,12 +12,10 @@ public class AmbulanceRoute {
             head.next = head;
             return;
         }
-
         HospitalUnit temp = head;
         while (temp.next != head) {
             temp = temp.next;
         }
-
         temp.next = unit;
         unit.next = head;
     }

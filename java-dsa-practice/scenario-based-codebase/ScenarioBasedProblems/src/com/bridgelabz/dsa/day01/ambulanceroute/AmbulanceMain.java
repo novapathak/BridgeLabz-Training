@@ -9,7 +9,6 @@ public class AmbulanceMain {
         route.addUnit("Radiology", false);
         route.addUnit("Surgery", true);
         route.addUnit("ICU", false);
-
         route.findAvailableUnit();
         route.removeUnit("Radiology");
         route.findAvailableUnit();

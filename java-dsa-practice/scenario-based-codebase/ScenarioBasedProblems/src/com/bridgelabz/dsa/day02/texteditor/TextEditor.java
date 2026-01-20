@@ -6,33 +6,32 @@ public class TextEditor {
 	private Stack<String> undo;
 	private StringBuffer sb=null;
 
-	//constructor to initialize text editor
+	//TO INITIALISE TEXT EDITOR THROUGH CONSTRUCTOR
 	public TextEditor() {
 		texts = new Stack<>();
 		undo = new Stack<>();
 		sb=new StringBuffer();
 	}
 	
-	//method to add text in stack
+	//adding text in stack
 	public void addText(String s) {
 		texts.push(s);
 		sb.append(s);
-		System.out.println("Text added successfully");
+		System.out.println("Text added ");
 		
 	}
 	
-	//method to remove recent text from stack
+	//remove text from stack
 	public void removeText() {
 		if(texts.isEmpty())
-			System.out.println("Editor is already empty");
+			System.out.println("empty");
 		else {
 			int length=texts.pop().length();
 			sb.delete(sb.length()-length, sb.length());
-			System.out.println("Text Removed Successfully");
+			System.out.println("text removed");
 		}
 	}
-	
-	//method to format the stack
+	//formatting stack
 	public void format() {
 		texts.clear();
 		undo.clear();
@@ -40,7 +39,7 @@ public class TextEditor {
 		System.out.println("Text Formatted removed evertything");
 	}
 	
-	//method to do undo operation
+	//Undo 
 	public void undo() {
 		if(texts.isEmpty()) {
 			System.out.println("Nothing to undo!!!");
@@ -61,10 +60,10 @@ public class TextEditor {
 			String redoString = undo.pop();
 			sb.append(redoString);
 			texts.push(redoString);
-			System.out.println("Redo operation success");
+			System.out.println("Redo successfully");
 		}
 	}
-	
+
 	public void displayText() {
 		System.out.println(sb.toString());
 	}

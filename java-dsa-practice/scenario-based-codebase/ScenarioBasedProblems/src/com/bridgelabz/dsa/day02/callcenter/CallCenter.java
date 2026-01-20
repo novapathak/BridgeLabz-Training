@@ -4,12 +4,11 @@ public class CallCenter {
 	Queue<String> normalQ = new LinkedList<>();
 	Queue<String> vipQ = new LinkedList<>();
 	HashMap<String, Integer> callCount = new HashMap<>();
-	
-	//Add call
-	void call(String name, boolean isVIP) {
-		callCount.put(name, callCount.getOrDefault(name, 0)+1);
-		
-		if(isVIP) {
+
+	//Adding  call
+	void call(String name , boolean isVIP) {
+		callCount.put(name , callCount.getOrDefault(name, 0)+1);
+    if(isVIP) {
 			vipQ.add(name);
 			System.out.println(name + "VIP added");
 		}
@@ -20,13 +19,15 @@ public class CallCenter {
 	
 	}
 	void attend() {
-		 if (!vipQ.isEmpty()) {
+		
+	 if (!vipQ.isEmpty()) {
 	            System.out.println("Attending VIP: " + vipQ.poll());
 
 	        } 
 		 else if (!normalQ.isEmpty()) {
 	            System.out.println("Attending: " + normalQ.poll());
-	            } else {
+	            } 
+		 else {
 	            System.out.println("No calls waiting");
 	        }
 	    }

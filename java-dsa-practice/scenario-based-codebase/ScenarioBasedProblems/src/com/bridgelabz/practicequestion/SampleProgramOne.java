@@ -20,7 +20,6 @@ public class SampleProgramOne {
 	            }
 	        }
 		
-		
 		StringBuilder s = new StringBuilder();
 		for(char ch : input.toCharArray()) {
 			if(ch % 2 != 0) {

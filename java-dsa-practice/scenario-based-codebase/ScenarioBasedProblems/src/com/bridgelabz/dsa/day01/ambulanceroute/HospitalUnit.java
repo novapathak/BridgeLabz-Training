@@ -6,7 +6,7 @@ public class HospitalUnit {
     HospitalUnit next;
 
     HospitalUnit(String name, boolean available) {
-        this.name = name;
-        this.available = available;
+        this.name=name;
+        this.available=available;
     }
 }

@@ -18,18 +18,18 @@ class ExamProctor {
     // question visit
     void visitQuestion(int qId) {
         navigation.push(qId);
-        System.out.println("Visited Question " + qId);
+        System.out.println("Visited Question "+qId);
     }
     // Answer a question
     void answerQuestion(int qId, String answer) {
         answers.put(qId, answer);
-        System.out.println("Answered Q" + qId + " = " + answer);
+        System.out.println("Answered Q" +qId+ "=" + answer);
     }
 
     // evaluate score
     int calculateScore() {
         int score = 0;
-        for (int qId : correctAnswers.keySet()) {
+        for (int qId:correctAnswers.keySet()) {
             if (correctAnswers.get(qId).equals(answers.get(qId))) {
                 score++;
             }

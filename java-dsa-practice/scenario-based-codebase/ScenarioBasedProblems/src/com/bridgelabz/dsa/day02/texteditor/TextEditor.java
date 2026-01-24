@@ -8,8 +8,8 @@ public class TextEditor {
 
 	//TO INITIALISE TEXT EDITOR THROUGH CONSTRUCTOR
 	public TextEditor() {
-		texts = new Stack<>();
-		undo = new Stack<>();
+		texts=new Stack<>();
+		undo=new Stack<>();
 		sb=new StringBuffer();
 	}
 	
@@ -57,7 +57,7 @@ public class TextEditor {
 		if(undo.isEmpty()) {
 			System.out.println("Nothing to redo");
 		}else {
-			String redoString = undo.pop();
+			String redoString=undo.pop();
 			sb.append(redoString);
 			texts.push(redoString);
 			System.out.println("Redo successfully");

@@ -1,7 +1,7 @@
 package com.bridgelabz.dsa.day01.browserbuddy;
 
 public class PageNode {
-  String url;
+  protected String url;
   PageNode prev;
  PageNode next;
 

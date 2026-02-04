@@ -870,4 +870,70 @@ Date - 21-01-2026
 
 
 ---
+## Day 33 - Reflection in Java
+Date - 22-01-2026
 
+## ✅ Overview
+- Mastered Java Reflection API for runtime class inspection and dynamic behavior
+- Learned to access and modify private fields/methods, create objects dynamically, and implement advanced patterns
+- Built tools for object mapping, JSON generation, dependency injection, and method timing
+
+## 📘 Concepts Covered
+- **Class Inspection**: Retrieving methods, fields, constructors at runtime
+- **Access Control**: Bypassing encapsulation to access private members
+- **Dynamic Instantiation**: Creating objects without `new` keyword
+- **Annotation Processing**: Reading custom annotations at runtime
+- **Proxy Pattern**: Implementing dynamic proxies for method interception
+- **Dependency Injection**: Simple DI container using reflection
+- **Performance Measurement**: Timing method execution dynamically
+
+## 🧪 Hands-on Practice
+**Basic Reflection Operations:**
+- **Class Analyzer**: Displayed methods, fields, constructors for any input class
+- **Private Field Access**: Modified and retrieved private `age` field in Person class
+- **Private Method Invocation**: Called private `multiply()` method in Calculator class
+- **Dynamic Object Creation**: Instantiated Student objects without `new` keyword
+
+**Intermediate Reflection Patterns:**
+- **Dynamic Method Invoker**: Called MathOperations methods (add, subtract, multiply) based on user input
+- **Annotation Processor**: Retrieved and displayed custom @Author annotation values
+- **Static Field Modifier**: Accessed and modified private static API_KEY in Configuration class
+
+**Advanced Reflection Applications:**
+- **Custom Object Mapper**: Implemented `toObject()` method to set field values from Map
+- **JSON Generator**: Created JSON-like string representation by inspecting object fields
+- **Logging Proxy**: Built dynamic proxy to intercept and log method calls
+- **DI Container**: Implemented simple dependency injection using @Inject annotation scanning
+- **Method Timer**: Measured execution time of methods in any class dynamically
+
+### 🔗 Code Links
+👉 [Day 33 – Reflection in Java](/java-collections-practice/gcr-codebase/javaCollectionsConcepts/src/com/bridgelabz/reflection)
+
+
+---
+## Day 33 - Java Annotations Practice
+Date - 22-01-2026
+
+### ✅ Overview
+- Learned built-in annotations (@Override, @Deprecated, @SuppressWarnings) and their practical applications
+- Mastered custom annotation creation for task management, validation, logging, and security
+- Built annotation-driven systems for serialization, caching, and role-based access control
+
+### 📘 Annotation Types Practiced
+- **Built-in Annotations**: Proper usage of @Override, @Deprecated, and @SuppressWarnings
+- **Custom Single Annotations**: Created @TaskInfo, @ImportantMethod, @Todo with parameters
+- **Repeatable Annotations**: Implemented @BugReport using @Repeatable meta-annotation
+- **Advanced System Annotations**: Built @LogExecutionTime, @MaxLength, @RoleAllowed, @JsonField, @CacheResult
+
+### 🧪 Hands-on Implementation
+- **Annotation Definition**: Created custom annotations with retention policies and targets
+- **Runtime Processing**: Used Reflection API to read and process annotations at runtime
+- **Validation Systems**: Implemented field validation with @MaxLength and access control with @RoleAllowed
+- **Performance Tools**: Built execution time logging with @LogExecutionTime and caching with @CacheResult
+- **Serialization Framework**: Created JSON serialization using @JsonField annotation mapping
+- 
+### 🔗 Code Links
+👉 [Day 33 –  Java Annotations Practice](/java-collections-practice/gcr-codebase/javaCollectionsConcepts/src/com/bridgelabz/annotation)
+
+
+---

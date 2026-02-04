@@ -772,5 +772,17 @@ Date -06-01-2026
 👉 [Day 23 – Scenario-Based Problems](/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/dsa/day02)
 
 ---
+## 📌 Day 30 – File Handling or InputOutput Streams
+**(Date: 19-Jan-2026)**
+
+### 📁 File Handling & Streams - Learnings & Practice
+- Implemented **10 file I/O operations** including file copy, serialization, image byte conversion, and inter-thread communication
+- Used **byte streams (FileInputStream, FileOutputStream), character streams (FileReader, FileWriter), buffered streams, data streams, object streams, and piped streams**
+- Applied **efficient techniques** for large files (buffering, chunking, line-by-line reading) and performance optimization
+- Built **data processing tools** for case conversion, word counting, and filtering error logs
+- Strengthened **exception handling and resource management** with try-with-resources and proper stream closing
+
+### 🔗 Code Links
+👉 [Day 30 – File Handling & Streams](/java-collections-practice/gcr-codebase/javaCollectionsConcepts/src/com/bridgelabz/streams)
 
 

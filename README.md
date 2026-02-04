@@ -785,4 +785,89 @@ Date -06-01-2026
 ### 🔗 Code Links
 👉 [Day 30 – File Handling & Streams](/java-collections-practice/gcr-codebase/javaCollectionsConcepts/src/com/bridgelabz/streams)
 
+---
+## Day 32 - Regular Expressions (Regex)
+Date - 21-01-2026
+
+## ✅ Overview
+- Mastered pattern matching for data validation, extraction, and text manipulation
+- Learned to apply regex to real-world validation and data cleaning scenarios
+- Built efficient tools for processing structured and unstructured text data
+
+## 📘 Concepts Covered
+- **Pattern Validation**: Usernames, license plates, hex colors, IP addresses, credit cards, SSNs
+- **Data Extraction**: Emails, capitalized words, dates, URLs, programming languages, currency values
+- **Text Manipulation**: Space normalization, word censoring, duplicate detection
+- **Advanced Patterns**: Groups, lookarounds, quantifiers, character classes
+- **Best Practices**: Efficient regex compilation, case sensitivity, boundary matching
+
+## 🧪 Hands-on Practice
+**Validation Patterns Implemented:**
+- **Username Validation**: Letters, numbers, underscores (5-15 characters, starts with letter)
+- **License Plate Validation**: 2 uppercase letters + 4 digits
+- **Hex Color Validation**: # followed by 6 hex characters
+- **IP Address Validation**: Four 0-255 groups separated by dots
+- **Credit Card Validation**: Visa (4 + 16 digits), MasterCard (5 + 16 digits)
+- **SSN Validation**: 3-2-4 digit format with hyphens
+
+**Extraction Tools Built:**
+- **Email Extractor**: Identified email addresses from unstructured text
+- **Date Parser**: Extracted dates in dd/mm/yyyy format
+- **URL Extractor**: Captured HTTP/HTTPS links from web content
+- **Language Detector**: Extracted programming language names from text
+- **Currency Extractor**: Identified monetary values and symbols
+
+**Text Processing Functions:**
+- **Space Normalizer**: Converted multiple spaces to single spaces
+- **Word Censor**: Replaced bad words with asterisks
+- **Duplicate Finder**: Identified repeating consecutive words
+
+---
+
+## Day 32  - Unit Testing with JUnit
+Date - 21-01-2026
+
+## ✅ Overview
+- Learned comprehensive unit testing principles and JUnit 5 framework
+- Mastered test-driven development (TDD) methodologies
+- Applied testing best practices for robust, maintainable code
+
+## 📘 Concepts Covered
+- **JUnit Annotations**: @Test, @BeforeEach, @AfterEach, @ParameterizedTest, @Timeout
+- **Assertion Methods**: assertEquals, assertTrue, assertFalse, assertThrows
+- **Test Lifecycle**: Setup, execution, teardown phases
+- **Exception Testing**: Validating expected exceptions
+- **Performance Testing**: Time-based test execution
+- **Test Organization**: Test suites, parameterized data sources
+- **Best Practices**: Test isolation, meaningful test names, comprehensive coverage
+
+## 🧪 Hands-on Practice
+**Basic Testing Scenarios:**
+- **Calculator Testing**: Arithmetic operations with edge cases and division by zero
+- **String Utilities**: Palindrome detection, string reversal, case conversion
+- **List Operations**: Element addition, removal, and size validation
+- **Exception Handling**: Division by zero and invalid input scenarios
+
+**Advanced Testing Patterns:**
+- **Database Connection Management**: @BeforeEach and @AfterEach for resource handling
+- **Parameterized Testing**: Multiple input values for even number checking
+- **Performance Validation**: @Timeout for long-running tasks
+- **File Operations**: Read/write testing with exception handling
+
+**Real-world Business Logic Testing:**
+- **Banking System**: Deposit, withdrawal, and balance validation with insufficient funds
+- **Password Validator**: Strength rules enforcement (8+ chars, uppercase, digit)
+- **Temperature Converter**: Celsius-Fahrenheit bidirectional conversion
+- **Date Formatter**: Date format transformation with validation
+- **User Registration**: Input validation and exception testing
+
+
+### 🔗 Code Links
+👉 [Day 32 – Regular Expressions (Regex)](/java-collections-practice/gcr-codebase/javaCollectionsConcepts/src/com/bridgelabz/regex)
+👉 [Day 32 – Unit Testing with JUnit](/java-collections-practice/gcr-codebase/javaCollectionsConcepts/src/com/bridgelabz/regex)
+
+
+
+
+---
 

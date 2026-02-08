@@ -772,6 +772,9 @@ Date -06-01-2026
 👉 [Day 23 – Scenario-Based Problems](/java-dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bridgelabz/dsa/day02)
 
 ---
+
+## 📘 Week 4 – Collections & Generics Practice
+
 ## 📌 Day 30 – File Handling or InputOutput Streams
 **(Date: 19-Jan-2026)**
 

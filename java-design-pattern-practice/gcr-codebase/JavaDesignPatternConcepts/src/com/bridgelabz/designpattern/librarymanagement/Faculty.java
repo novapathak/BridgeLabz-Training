@@ -1,0 +1,13 @@
+package com.bridgelabz.designpattern.librarymanagement;
+
+public class Faculty extends User {
+
+    public Faculty(String name) {
+        super(name);
+    }
+
+    @Override
+    public void getRole() {
+        System.out.println(name + " is Faculty (Extended Borrowing)");
+    }
+}
